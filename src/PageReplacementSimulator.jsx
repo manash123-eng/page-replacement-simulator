@@ -399,6 +399,10 @@ export default function PageReplacementSimulator() {
             <canvas ref={canvasRef} width="400" height="260" />
           </div>
         )}
+        <div style={{ marginTop: "20px", fontSize: "12px", color: "gray" }}>
+  Commit 3: UI minor update
+</div>
+
       </div>
     </div>
   );
