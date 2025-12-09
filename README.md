@@ -1,74 +1,69 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Page Replacement Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements the **FIFO, LRU, and Optimal Page Replacement Algorithms** using **React**.  
+It visually compares how each algorithm works with step-by-step execution, fault/hit tracking, and a comparison graph.
 
-## Available Scripts
+---
+## ▶ How to Run
+1. Install Node.js
+2. Open terminal in project folder
+3. Run:
+   npm install
+   npm start
+
+## 🚀 Features
+- FIFO, LRU, and Optimal algorithm simulation  
+- Step-by-step execution  
+- Page fault & hit visualization  
+- Summary statistics  
+- Comparison graph  
+- Clean and simple user interface  
+
+---
+
+## 🛠 Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
-Runs the app in the development mode.\
+Runs the app in development mode.  
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.  
+You may also see lint errors in the console.
+
+---
 
 ### `npm test`
+Launches the test runner in interactive watch mode.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
 ### `npm run build`
+Builds the app for production to the `build` folder.  
+It correctly bundles React in production mode and optimizes the build for best performance.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The build is minified and optimized for deployment.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
 ### `npm run eject`
+⚠️ **Warning:** This is a one-way operation. Once you eject, you can't go back.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You do NOT need to use eject for this project.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📦 Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 👨‍💻 Author
+**Manas Mishra**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# page-replacement-simulator
->>>>>>> a336c22e85e70228d05c5bfd97197eb4b1d599dc
