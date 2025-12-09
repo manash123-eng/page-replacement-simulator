@@ -119,7 +119,7 @@ const styles = {
 
 /* ===================== MAIN COMPONENT ===================== */
 export default function PageReplacementSimulator() {
-  const [framesCount, setFramesCount] = useState(3);
+  const [framesCount, setFramesCount] = useState(4);
   const [refString, setRefString] = useState("7,0,1,2,0,3,0,4,2,3,0,3,2");
   const [speed, setSpeed] = useState(500);
   const [step, setStep] = useState(0);
