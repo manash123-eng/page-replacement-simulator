@@ -400,7 +400,8 @@ export default function PageReplacementSimulator() {
           </div>
         )}
         <div style={{ marginTop: "20px", fontSize: "12px", color: "gray" }}>
-  Commit 3: UI minor update
+  Developed by Manas Mishra
+
 </div>
 
       </div>
