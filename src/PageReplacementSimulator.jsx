@@ -256,7 +256,8 @@ export default function PageReplacementSimulator() {
     <div style={styles.page}>
       <div style={styles.container}>
         <div style={styles.header}>
-          Page Replacement Simulator — FIFO / LRU / Optimal
+          Page Replacement Algorithm Simulator — FIFO / LRU / Optimal
+
         </div>
 
         {/* ===================== TOP GRID ===================== */}
