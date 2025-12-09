@@ -1,3 +1,5 @@
+
+
 body {
   font-family: Arial, sans-serif;
   background: #f4f6fc;
@@ -82,4 +84,8 @@ th {
 .fault {
   color: red;
   font-weight: bold;
+}
+body {
+  margin: 0;
+  background-color: #f4f7ff;
 }
